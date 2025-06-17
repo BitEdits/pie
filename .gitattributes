@@ -1,0 +1,5 @@
+*.sh linguist-detectable=false
+*.erl linguist-detectable=false
+*.hrc linguist-detectable=false
+*.app.src linguist-detectable=false
+
